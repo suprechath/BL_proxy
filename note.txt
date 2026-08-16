@@ -1,0 +1,5 @@
+mitmdump -s capture.py // run
+Set up proxy 
+- IP: 127.0.0.1
+- port: 8080
+Ensure Make.com (Webhook) is active.
